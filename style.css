@@ -16,4 +16,12 @@
         .line-height {
             line-height: 10px;
         }
-        
+        .top-padding {
+            padding-top: 20px;
+        }
+        h1 {
+            color: #4f0d6d;
+            font-size: 70px; 
+            font-family: 'Tangerine', cursive;  
+        }
+      
