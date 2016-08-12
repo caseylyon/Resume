@@ -1,0 +1,19 @@
+     .name-font {
+            font-family: Verdana;
+        }
+        .italic {
+            font-style: italic;
+        }
+        .font-normal {
+            font-weight: normal;
+        }
+        .background-color {
+            background-color: #eeddbb;
+        }
+        .center-align {
+            text-align: center;
+        }
+        .line-height {
+            line-height: 10px;
+        }
+        
