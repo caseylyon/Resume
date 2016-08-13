@@ -7,8 +7,8 @@
         .font-normal {
             font-weight: normal;
         }
-        .background-color {
-            background-color: #eeddbb;
+        .background-image {
+            background-image: url("https://amazingsky.files.wordpress.com/2012/09/milky-way-over-herbert-lake-2-sept-7-2012.jpg");
         }
         .center-align {
             text-align: center;
@@ -23,5 +23,12 @@
             color: #4f0d6d;
             font-size: 70px; 
             font-family: 'Tangerine', cursive;  
+        }
+        section {
+            padding: 1px;
+            margin: 25px;
+            opacity: 0.25;
+            filter: alpha(opacity=50);
+            background: white;
         }
       
