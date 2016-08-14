@@ -15,6 +15,7 @@
         }
         .center-align {
             text-align: center;
+            list-style-position: inside;
         }
         .line-height {
             line-height: 10px;
@@ -30,7 +31,7 @@
         section {
             padding: 1px;
             margin: 25px;
-            background: rgba(255,255,255,0.25);
+            background: rgba(255,255,255,.25);
             color: black;
         }
         .white-text {
