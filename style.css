@@ -8,7 +8,7 @@
             font-weight: normal;
         }
         .background-image {
-            background-image: url('/mages/background.jpg');
+            background-image: url('Images/background.jpg');
         }
         .center-align {
             text-align: center;
