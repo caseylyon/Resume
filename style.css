@@ -9,6 +9,12 @@
         }
         .background-image {
             background-image: url('Images/background.jpg');
+            background-repeat: no-repeat;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            background-image: center center fixed;
         }
         .center-align {
             text-align: center;
@@ -27,9 +33,7 @@
         section {
             padding: 1px;
             margin: 25px;
-            opacity: 0.25;
-            filter: alpha(opacity=50);
-            background: white;
+            background: rgba(255,255,255,0.25)
         }
         .white-text {
             color: white;
