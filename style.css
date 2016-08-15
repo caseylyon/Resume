@@ -31,12 +31,19 @@
         section {
             padding: 1px;
             margin: 25px;
-            background: rgba(255,255,255,.25);
+            background: rgba(255,255,255,.4);
             color: black;
+            font-family: 'Dosis', sans-serif;
         }
         .white-text {
             color: white;
         }
         .left-align {
             text-align: left;
+        }
+        .all-text {
+            font-family: 'Dosis', sans-serif;
+        }
+        .text-size {
+            font-size: 15px;
         }
