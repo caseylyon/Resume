@@ -5,8 +5,7 @@
             font-weight: normal;
         }
         .background-image {
-            background-image: url('Images/background.jpg');
-            background-repeat: no-repeat;
+            background: url('Images/background.jpg') top center no-repeat;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -47,3 +46,10 @@
         .text-size {
             font-size: 15px;
         }
+        @media (min-width: 768px) {
+            section {
+                width: 70%;
+                margin: 25px auto;
+                padding: 1px;
+            }
+    }
