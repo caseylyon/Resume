@@ -11,6 +11,7 @@
             -o-background-size: cover;
             background-size: cover;
             background-image: center center fixed;
+            background-attachment: fixed;
         }
         .center-align {
             text-align: center;
